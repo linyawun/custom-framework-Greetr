@@ -14,7 +14,7 @@
 > 請先安裝 [Node.js](https://nodejs.org/zh-tw/download)，Node.js 版本建議為：`18.12.0` 以上
 ### 取得專案
 ```bash
-git clone https://github.com/linyawun/custom-framework-Greetr.git
+git clone https://github.com/linyawun/custom-library-Greetr.git
 ```
 ### 移動到專案內
 ```bash
